@@ -2,7 +2,7 @@
 
 This repository contains notes, latex documents, screenshots, etc. to prove all the work mentioned in my CV is my own and has been completed.
 
-> 📝 **Note:** For self-studies, this repository only contains the topics that were covered on my tablet and not on paper (most of those are 8000km away) since I am prone to rotating between the two.
+> 📝 **Note:** For self-studies, this repository only contains the topics that were covered on my tablet and not on paper.
 
 ---
 
