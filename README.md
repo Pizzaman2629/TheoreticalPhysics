@@ -1,6 +1,6 @@
 # Theoretical Physics
 
-This repository contains notes, latex documents, screenshots, etc. to prove all the work mentioned in my CV is my own and has been completed.
+This repository acts as a portfolio documenting self-studies, simulations and research projects for theoretical/computational physics.
 
 > 📝 **Note:** For self-studies, this repository only contains the topics that were covered on my tablet and not on paper.
 
