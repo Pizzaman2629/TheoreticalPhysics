@@ -11,7 +11,7 @@ This repository acts as a portfolio documenting self-studies, simulations and re
 ### Feynman Integrals using PINNs
 This is an **ongoing** research project focused on solving Feynman Integrals (FIs) using Physics-Informed Neural Networks (PINNs). 
 
-**Primary Document:** _[Insert Document Link Here]_  
+**Primary Document:** [`Ongoing Literature Review for FI-PINNs.pdf`](./Ongoing%20Literature%20Review%20for%20FI-PINNs.pdf)  
 This document serves as a literature review and manuscript for the project. It is updated regularly and currently covers:
 * **Graph Theory for FIs:** Basics of graph theory including Spanning trees and forests.
 * **Reduction Techniques:** Integration by Parts (IBPs) and Laporta's Algorithm.
