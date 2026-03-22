@@ -25,7 +25,7 @@ Learnt LSZ reduction formula, it ties very much to elementary QFT because you ar
 ### 4.) Renormalization and EFT
 $$\mathcal{L} = -\frac{1}{2}Z_\phi \partial^\mu \phi \partial_\mu \phi - \frac{1}{2}Z_m m^2\phi^2 - \frac{1}{24}Z_g g\phi^4$$
 
-Learnt about the $\overline{\text{MS}}$ renormalization scheme. Walked through EFT and how it is just filtering out all the high energy physics/short distance physics by adding a lattice. Learnt about the renormalization group approach and how we can calculate beta functions to relate parameters in the Lagrangian. I really enjoy the RG group and EFT conceptually because they are such a cool way of eliminating the divergences at high energies. 
+Learnt about the $\overline{\text{MS}}$ renormalization scheme. Walked through EFT and how it is just filtering out all the high energy physics/short distance physics by adding a lattice and integrating out all higher degrees of freedom through operators. Learnt about the renormalization group approach and how we can calculate beta functions to relate parameters in the Lagrangian. I really enjoy the RG and EFT conceptually because they are such a cool way of eliminating the divergences at high energies. 
 
 ### 5.) Symmetries
 $$j^\mu = \frac{\partial \mathcal{L}}{\partial(\partial_\mu \phi)} \delta \phi$$
