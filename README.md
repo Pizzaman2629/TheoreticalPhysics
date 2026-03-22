@@ -6,6 +6,21 @@ This repository acts as a portfolio documenting self-studies, simulations and re
 
 ---
 
+## 📌 Table of Contents
+* [🔬 Research Projects](#-research-projects)
+  * [Feynman Integrals using PINNs](#feynman-integrals-using-pinns)
+* [📽️ Quick Glimpse of Simulations](#️-quick-glimpse-of-simulations)
+  * [OSIRIS PIC Simulations](#osiris-pic-simulations)
+  * [PINNs for Fluids & FIs](#pinns-for-fluid-simulations--feynman-integrals)
+  * [CFD Simulations](#cfd-simulations)
+* [📚 Central Documents for Self-Study Evidence](#-central-documents-for-self-study-evidence)
+  * [1.) Quantum Field Theory](#-1-quantum-field-theory)
+  * [2.) General Relativity](#-2-general-relativity)
+  * [3.) Plasma Physics](#-3-plasma-physics)
+  * [4.) String Theory](#-4-string-theory)
+
+---
+
 ## 🔬 Research Projects
 
 ### Feynman Integrals using PINNs
