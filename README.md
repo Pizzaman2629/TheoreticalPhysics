@@ -17,7 +17,7 @@ This simulation was run with a fine PIC mesh as part of a mesh-independence stud
 | Fluid Flow Fronts | Feynman Integral Reproduction |
 | :--- | :--- |
 | ![flow_fronts](https://github.com/user-attachments/assets/ad1c9523-c33b-43b3-bcad-296bd8ee85ae) | <img width="400" src="https://github.com/user-attachments/assets/da6f065d-12da-45f4-857e-bf9371b6349c" /> |
-| This is a GIF of flow-fronts propagating as predicted by the PINN model. It is part of a manuscript currently being written up for peer-review so the documentation for this will be added as soon as that is complete. | This is a figure from our attempts at reproducing the results from [this paper](https://link.springer.com/article/10.1007/JHEP07(2024)124). These were succesful and were taken as an initial starter for ongoing research on simulating Feynman Integrals with PINNs. |
+| This is a GIF of flow-fronts propagating as predicted by the PINN model. It is part of a manuscript currently being written up for peer-review so the documentation for this will be added as soon as that is complete. | This is a figure from our attempts at reproducing the results from [this paper](https://link.springer.com/article/10.1007/JHEP07(2024)124) for the massless box case. These were later proved succesful and were taken as an initial starter for ongoing research on simulating Feynman Integrals with PINNs. |
 
 ### CFD Simulations
 | Rocket Aerodynamics | Formula Student Cooling |
